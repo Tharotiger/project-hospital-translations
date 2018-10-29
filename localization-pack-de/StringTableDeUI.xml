@@ -559,7 +559,7 @@
             <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_NIGHT_SHIFT</LocID>                     <Text>Nachtschicht besetzt</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_STRETCHERS</LocID>                      <Text>Krankentrage</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_SURGERY_EQUIPMENT</LocID>                          <Text>OP Raum ausgestattet</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TOOLTIP_SURGERY_STAFF</LocID>                              <Text>Operateure, Anästhesisten, Krankenpfleger/innen</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SURGERY_STAFF</LocID>                              <Text>Operateure, Anästhesisten, Pfleger/innen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_SURGERY_STAFF_DETAILS</LocID>                      <Text>2x Operateur\n1x Anästhesist\n1x OP-Pfleger/in\n2x Pfleger/in </Text>  </GameDBLocalizedString>
 
             <!-- LOGISTICS/MANAGEMENT, EMPLOYEES TABLE -->
@@ -619,11 +619,11 @@
             <GameDBLocalizedString>      <LocID>TABLE_DEP_REPUTATION</LocID>                <Text>Ruf</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_DOCTORS</LocID>     <Text>Mitarbeiter - Ärzte</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_NURSES</LocID>      <Text>Mitarbeiter - Krankenpfleger/innen</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_NURSES</LocID>      <Text>Mitarbeiter - Pfleger/innen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_LAB</LocID>         <Text>Mitarbeiter - Laborpersonal</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_JANITORS</LocID>    <Text>Mitarbeiter - Hausmeister</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_ALL</LocID>         <Text>Mitarbeiter - Alle</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_DOCTORS_NURSES</LocID><Text>Mitarbeiter - Ärzte und Krankenpfleger/innen</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_DOCTORS_NURSES</LocID><Text>Mitarbeiter - Ärzte und Pfleger/innen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_SELECT</LocID>              <Text>Mitarbeiter auswählen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_HEADING</LocID>               <Text>Ärzte</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_DOCTOR</LocID>                <Text>Name</Text>  </GameDBLocalizedString>
@@ -715,7 +715,7 @@
             <GameDBLocalizedString>      <LocID>DRESS_CODE_DOCTORS_CLINIC</LocID>           <Text>Ärzte - Ambulant</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DRESS_CODE_DOCTORS_ON_CALL</LocID>          <Text>Ärzte - Bereitschaft</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DRESS_CODE_SURGERY</LocID>                  <Text>OP Kittel</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DRESS_CODE_NURSES</LocID>                   <Text>Krankenpfleger/innen</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DRESS_CODE_NURSES</LocID>                   <Text>Pfleger/innen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DRESS_CODE_TECHNOLOGISTS</LocID>            <Text>Techn. Assistenten</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DRESS_CODE_JANITORS</LocID>                 <Text>Hausmeister</Text>  </GameDBLocalizedString>
 
